@@ -1,0 +1,6 @@
+.chart_container {
+	display: flex;
+	justify-content: center;
+	width: 85%;
+	max-width: 1000px;
+}
