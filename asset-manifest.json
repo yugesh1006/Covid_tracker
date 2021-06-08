@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Covid_tracker/static/css/main.68c77ef3.chunk.css",
+    "main.js": "/Covid_tracker/static/js/main.4e8b6f0f.chunk.js",
+    "main.js.map": "/Covid_tracker/static/js/main.4e8b6f0f.chunk.js.map",
+    "runtime-main.js": "/Covid_tracker/static/js/runtime-main.7a033422.js",
+    "runtime-main.js.map": "/Covid_tracker/static/js/runtime-main.7a033422.js.map",
+    "static/js/2.fb6f87a0.chunk.js": "/Covid_tracker/static/js/2.fb6f87a0.chunk.js",
+    "static/js/2.fb6f87a0.chunk.js.map": "/Covid_tracker/static/js/2.fb6f87a0.chunk.js.map",
+    "static/js/3.a6cfef50.chunk.js": "/Covid_tracker/static/js/3.a6cfef50.chunk.js",
+    "static/js/3.a6cfef50.chunk.js.map": "/Covid_tracker/static/js/3.a6cfef50.chunk.js.map",
+    "index.html": "/Covid_tracker/index.html",
+    "static/css/main.68c77ef3.chunk.css.map": "/Covid_tracker/static/css/main.68c77ef3.chunk.css.map",
+    "static/js/2.fb6f87a0.chunk.js.LICENSE.txt": "/Covid_tracker/static/js/2.fb6f87a0.chunk.js.LICENSE.txt",
+    "static/media/Coronavirus_3D_illustration_by_CDC_1600x900-removebg-preview.0e605c32.png": "/Covid_tracker/static/media/Coronavirus_3D_illustration_by_CDC_1600x900-removebg-preview.0e605c32.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a033422.js",
+    "static/js/2.fb6f87a0.chunk.js",
+    "static/css/main.68c77ef3.chunk.css",
+    "static/js/main.4e8b6f0f.chunk.js"
+  ]
+}
